@@ -1,10 +1,12 @@
-AndroidCodeRepo
+Android Code Repository
 ===============
-Tugrul Asik
 
-Android Tutorial Code Archive
+Topical some code samples will be here.
 ---
-For more visit : http://tugrulasik.com/category/android/
+For more please visit
+http://tugrulasik.com/category/android/
 ---
 
 Enjoy in development !
+
+
